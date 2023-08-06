@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="mavenproject.SimplePro"/>
+      <class name="mavenproject.A"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
