@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-06T09:22:43 IST" name="Default suite" finished-at="2023-08-06T09:23:23 IST" duration-ms="39904">
+    <groups>
+    </groups>
+    <test started-at="2023-08-06T09:22:43 IST" name="Default test" finished-at="2023-08-06T09:23:23 IST" duration-ms="39904">
+      <class name="mavenproject.SimplePro">
+        <test-method signature="m()[pri:0, instance:mavenproject.SimplePro@747ddf94]" started-at="2023-08-06T09:22:43 IST" name="m" finished-at="2023-08-06T09:23:23 IST" duration-ms="39813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m -->
+      </class> <!-- mavenproject.SimplePro -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
